@@ -1,23 +1,26 @@
-<h1 align='center'> Hi there 👋 This is Sista Seetaram</h1>
 
-- 🔭 I’m currently working on  Developing a Stock Market Dahboard...
-- 🌱 I’m currently learning Various Unsupervised ML techniques...
-- 👯 I’m looking to collaborate on Any ML/DS related project...
-- 🤔 I’m looking for help with increasing my open source contributions...
-- 💬 Ask me about anything related to supervised machine learning and data science...
-- 📫 How to reach me: [@SistaSeetaram](https://twitter.com/SeetaramSista)
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=100&lines=Hi+👋,+Sista+Seetaram+Here..;+AI+And+ML+Developer+💻;+An+Open+Source+Enthusiast+☀;+Violinst+🎻+;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+</p>
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 ### 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-</p>
+<!-- ----------- HEAD SECTION END ------------ -->
 
-<br/>
+
+<!-- ----------- TECH STACK SECTION ------------ -->
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c\/c++-4e055e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-%23E34F26.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-000bde.svg?style=for-the-badge&logo=&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/sklearn-ff8819.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-e30565.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-005724?style=for-the-badge&logo=flask&logoColor=white&color=005724) ![Hadoop](https://img.shields.io/badge/Hadoop-e3c922.svg?style=for-the-badge&logo=apache&logoColor=black) ![Spark](https://img.shields.io/badge/spark-%2320232a.svg?style=for-the-badge&logo=apache-spark&logoColor=%23E34F26) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-05b381?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-blue.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Sphinx](https://img.shields.io/badge/Sphinx-3670A0?style=for-the-badge&logo=python&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-fcba03.svg?style=for-the-badge&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black)
+
+<br>
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 ### 📊 My Github Stats
@@ -28,17 +31,25 @@
  </p>
 
 <br/>
-<br/>
 
 <img alt="Sista Seetaram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sistaseetaram&bg_color=0D1117&color=fabf3e&line=04cfcf&point=FFFFFF" />
+<br/>
 
-<br/>
-<br/>
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### Connect with me:
-<p align="left">
 
-<a href = "https://twitter.com/SeetaramSista"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/sista-seetaram-42b4161b2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+<p align="center">
+<a href="https://discordapp.com/users/wolftyson#8389/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="wolftyson#8389"/></a> <a href="https://www.linkedin.com/in/sista-seetaram-42b4161b2/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="seetaram_linkedIn"/></a></a>
+<br>
+<br>
+<a href="https://twitter.com/SeetaramSista" target="blank"><img src="https://img.shields.io/twitter/follow/SeetaramSista?logo=twitter&style=for-the-badge" alt="SeetaramSista" /></a>
 </p>
+
+[twitter]: https://twitter.com/SeetaramSista
+[linkedin]: https://www.linkedin.com/in/sista-seetaram-42b4161b2/
+[github]:https://github.com/sistaseetaram
+[gmail]:mailto:sistaseetaram@gmail.com
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
