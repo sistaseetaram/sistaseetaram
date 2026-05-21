@@ -66,8 +66,6 @@ Today, 8 of 10 projects saw activity, totaling 12 commits. MyPersonalBrand led w
 
 | Project | Stage | Progress | Status | Last Active |
 |---------|-------|----------|--------|-------------|
-| [9BricksStudio](https://github.com/sistaseetaram/9BricksStudio.git) | Active development | █████░░░░░ 50% | active | 2026-05-21 |
-| [AlpacaTradingAutomation](https://github.com/sistaseetaram/AlpacaTradingAutomation.git) | Active development | █████░░░░░ 50% | active | 2026-05-21 |
 | [Artchitectural_design_automation](https://github.com/sistaseetaram/Artchitectural_design_automation.git) | Active development | █████░░░░░ 50% | active | 2026-05-21 |
 | [MyPersonalBrand](https://github.com/sistaseetaram/MyPersonalBrand.git) | Active development | █████░░░░░ 50% | active | 2026-05-21 |
 | [StockTradeAutomationPlanning](https://github.com/sistaseetaram/StockTradeAutomationPlanning.git) | Active development | █████░░░░░ 50% | active | 2026-05-21 |
