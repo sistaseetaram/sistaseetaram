@@ -60,18 +60,22 @@
 
 ## Current Focus
 
-Today, 2026-05-23, no project activity was reported. Zero projects are currently being tracked. No updates to share for the standup.
+Today, May 24, 2026, across 5 projects, development was mixed. MyPersonalBrand and StockTradeAutomationPlanning showed local progress with file changes and line modifications, though no commits were pushed across any project. Artchitectural_design_automation, ClaudeNervousSystem, and AlpacaTradingAutomation reported no activity. All projects remain in Active development. Focus may have been on planning or local work not yet committed.
 
 ## Active Projects
 
 | Project | Stage | Progress | Status | Last Active |
 |---------|-------|----------|--------|-------------|
-| -- | -- | -- | -- | -- |
+| [Artchitectural_design_automation](https://github.com/sistaseetaram/Artchitectural_design_automation.git) | Active development | █████░░░░░ 50% | stalled | 2026-05-24 |
+| [MyPersonalBrand](https://github.com/sistaseetaram/MyPersonalBrand.git) | Active development | █████░░░░░ 50% | stalled | 2026-05-24 |
+| [StockTradeAutomationPlanning](https://github.com/sistaseetaram/StockTradeAutomationPlanning.git) | Active development | █████░░░░░ 50% | stalled | 2026-05-24 |
+| ClaudeNervousSystem | Active development | █████░░░░░ 50% | stalled | 2026-05-24 |
+| AlpacaTradingAutomation | Active development | █████░░░░░ 50% | stalled | 2026-05-24 |
 
 ## Skills Shipped This Week
 
-- `n8n-cli`
+_No new skills_
 
 ---
-*Updated 2026-05-23 by [daily-routine](https://github.com/sistaseetaram/daily-routine-infra)*
+*Updated 2026-05-24 by [daily-routine](https://github.com/sistaseetaram/daily-routine-infra)*
 <!-- DAILY-ROUTINE:END -->
