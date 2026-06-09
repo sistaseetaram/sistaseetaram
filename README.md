@@ -1,83 +1,75 @@
-<!-- ![banner.png](./images/github-banner.png) -->
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+# Sista Seetaram — Founder @ Setu • Agentic AI Engineer
 
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=100&lines=Hi+👋,+Sista+Seetaram+Here..;+AI+And+ML+Developer+💻;+An+Open+Source+Enthusiast+☀;+Violinst+🎻+;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
-</p>
+**A bridge between complexity and clarity.**
 
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+I build practical AI systems that save hours, reduce errors, and capture value — one repeated workflow at a time.
 
+[Visit Setu](https://www.setuagency.com) • [Book a scoping call](https://www.setuagency.com/contact)
 
-### 🚀 Languages and Tools:
-
-<!-- ----------- HEAD SECTION END ------------ -->
-
-
-<!-- ----------- TECH STACK SECTION ------------ -->
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c\/c++-4e055e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-%23E34F26.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-000bde.svg?style=for-the-badge&logo=&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/sklearn-ff8819.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-e30565.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Dask](https://img.shields.io/badge/dask-ffffff.svg?style=for-the-badge&logo=python&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-005724?style=for-the-badge&logo=flask&logoColor=white&color=005724) ![Hadoop](https://img.shields.io/badge/Hadoop-e3c922.svg?style=for-the-badge&logo=apache&logoColor=black) ![Spark](https://img.shields.io/badge/spark-%2320232a.svg?style=for-the-badge&logo=apache-spark&logoColor=%23E34F26) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-05b381?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-blue.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Sphinx](https://img.shields.io/badge/Sphinx-3670A0?style=for-the-badge&logo=python&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-fcba03.svg?style=for-the-badge&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black)
-
-<br>
-
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-### 📊 My Github Stats
-<p align="center">
-  <br/>
-   <img width="48%" alt="Sista Seetaram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sistaseetaram&show_icons=true&theme=tokyonight&bg_color=0D1117" />
-  <img width="48%" alt="Sista Seetaram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sistaseetaram&theme=tokyonight&background=060A0CD0" />
- </p>
-
-<br/>
-
-<img alt="Sista Seetaram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sistaseetaram&bg_color=0D1117&color=fabf3e&line=04cfcf&point=FFFFFF" />
-<br/>
-
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### Connect with me:
-
-<p align="center">
-<a href="https://discordapp.com/users/wolftyson#8389/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="wolftyson#8389"/></a> <a href="https://www.linkedin.com/in/sista-seetaram-42b4161b2/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="seetaram_linkedIn"/></a></a>
-<br>
-<br>
-<a href="https://twitter.com/SeetaramSista" target="blank"><img src="https://img.shields.io/twitter/follow/SeetaramSista?logo=twitter&style=for-the-badge" alt="SeetaramSista" /></a>
-</p>
-
-[twitter]: https://twitter.com/SeetaramSista
-[linkedin]: https://www.linkedin.com/in/sista-seetaram-42b4161b2/
-[github]:https://github.com/sistaseetaram
-[gmail]:mailto:sistaseetaram@gmail.com
-
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-
-<!-- DAILY-ROUTINE:START -->
-<!-- auto-generated by daily-routine -- do not edit this section -->
-
-## Current Focus
-
-Today's standup revealed a widespread pause across all active projects. Artchitectural_design_automation, MyPersonalBrand, StockTradeAutomationPlanning, ContentGenerator, OutreachAutomation, ClaudeNervousSystem, and AlpacaTradingAutomation all reported no session activity. This suggests a collective shift in focus or a period of awaiting external dependencies or strategic direction. No new decisions were made, no progress was reported, and no immediate plans were outlined for any initiative. The team is currently in a holding pattern, with all projects awaiting further input or a change in priority to resume active development.
-
-## Active Projects
-
-| Project | Stage | Progress | Status | Last Active |
-|---------|-------|----------|--------|-------------|
-| [Artchitectural_design_automation](https://github.com/sistaseetaram/Artchitectural_design_automation.git) | Active development | ░░░░░░░░░░ 0% | active | 2026-06-08 |
-| [MyPersonalBrand](https://github.com/sistaseetaram/MyPersonalBrand.git) | Active development | ░░░░░░░░░░ 0% | active | 2026-06-08 |
-| [StockTradeAutomationPlanning](https://github.com/sistaseetaram/StockTradeAutomationPlanning.git) | Active development | ░░░░░░░░░░ 0% | active | 2026-06-08 |
-| [ContentGenerator](https://github.com/sistaseetaram/ContentGenerator.git) | Active development | ░░░░░░░░░░ 0% | active | 2026-06-08 |
-| [OutreachAutomation](https://github.com/sistaseetaram/OutreachAutomation.git) | Active development | ░░░░░░░░░░ 0% | active | 2026-06-08 |
-| ClaudeNervousSystem | Active development | ░░░░░░░░░░ 0% | active | 2026-06-08 |
-| AlpacaTradingAutomation | Active development | ░░░░░░░░░░ 0% | active | 2026-06-08 |
-
-## Skills Shipped This Week
-
-_No new skills_
+</div>
 
 ---
-*Updated 2026-06-08 by [daily-routine](https://github.com/sistaseetaram/daily-routine-infra)*
-<!-- DAILY-ROUTINE:END -->
+
+## Why this profile exists
+
+This GitHub is proof. Every repository linked below is a worked example of the kinds of systems I ship for businesses — automation, agentic workflows, production ML, and documentation that lets teams run and maintain solutions.
+
+If your business spends 2+ hours/day on a repeated task, I can map it, automate it safely, and measure the payoff.
+
+---
+
+## Setu Values (how I build)
+
+1. Work, not tech — focus on hours saved, workflows, and outcomes.
+2. Quiet over loud — useful systems that run in the background.
+3. Respect owners — build around how teams already work.
+4. Ship, don't slide — engagements end with something running.
+5. Map before build — diagnose first; recommend second.
+
+---
+
+## Proof projects (selected)
+
+### Active Setu work
+- ContentGenerator — Brand content automation (LinkedIn, X, YouTube, IG). Proof of multi-channel automation and orchestration. https://github.com/sistaseetaram/ContentGenerator
+- OutreachAutomation — Outreach & email automation with OAuth, Sheets, and robust credential handling. https://github.com/sistaseetaram/OutreachAutomation
+- skills-vault — Production-ready n8n skills and documentation (patterns, gotchas, examples). https://github.com/sistaseetaram/skills-vault
+
+### Production ML & Research
+- MicrosoftMalwareDetection — Large-scale malware classification (200GB dataset). Production model improvements and feature engineering. https://github.com/sistaseetaram/MicrosoftMalwareDetection
+- StockMarketDashboard — Real-time market analytics and feature-rich dashboards. https://github.com/sistaseetaram/StockMarketDashboard
+- QuoraQuestionPairSimilarity — NLP & semantic similarity modeling for duplicate detection. https://github.com/sistaseetaram/QuoraQuestionPairSimilarity
+
+### Product & Engineering
+- project_10k — Full-stack product for deliberate practice and mastery tracking. https://github.com/sistaseetaram/project_10k
+- data-science-ipython-notebooks — Collection of notebooks demonstrating ML/DL workflows and reproducible experiments. https://github.com/sistaseetaram/data-science-ipython-notebooks
+- Leetcode_company_frequency — Algorithm practice, company-tagged problems (engineering depth). https://github.com/sistaseetaram/Leetcode_company_frequency
+- learn_math_fast — Curriculum & learning plan for fast math learning. https://github.com/sistaseetaram/learn_math_fast
+
+---
+
+## Quick wins I deliver
+- Map a repeated workflow in one call and propose a 30-day plan to automate it.
+- Ship an initial human-in-the-loop automation that saves measurable hours.
+- Deliver clear logging, audit trails, and rollback paths for safety.
+
+---
+
+## Contact & next steps
+
+If you want GitHub as evidence of capability for prospective clients, I will:
+1. Convert each public project into a short case-study README highlighting business problem → approach → technical proof → impact.  
+2. Add short demo links, screenshots, and a single-run quickstart for each repo.  
+3. Link everything from this profile README so visitors can immediately see relevant proof.
+
+Tell me: would you like me to proceed and update the README for all public projects now? (I'll push case-study READMEs to each repository and report back when done.)
+
+---
+
+<div align="center">
+
+Built with the Setu approach: minimal, intentional, and outcome-oriented.
+
+</div>
